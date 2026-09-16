@@ -1,0 +1,23 @@
+{
+  "src/components/MapView.tsx": {
+    "file": "assets/MapView-PD8gj5pS.js",
+    "name": "MapView",
+    "src": "src/components/MapView.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.tsx"
+    ]
+  },
+  "src/main.tsx": {
+    "file": "assets/main-PKVr7EKH.js",
+    "name": "main",
+    "src": "src/main.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/components/MapView.tsx"
+    ],
+    "css": [
+      "assets/main-D2Pe2V-w.css"
+    ]
+  }
+}
